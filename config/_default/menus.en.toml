@@ -4,7 +4,7 @@
   weight = 10
 
 [[main]]
-  name = "Services"
+  name = "How I Can Help"
   url = "#services"
   weight = 20
 
