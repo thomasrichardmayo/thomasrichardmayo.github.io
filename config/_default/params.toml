@@ -56,7 +56,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "profile"
+  layout = "page"
   showRecent = false    # <-- This turns off the blank blog list for now
 
 [article]

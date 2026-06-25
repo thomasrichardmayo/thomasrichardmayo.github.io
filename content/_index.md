@@ -1,6 +1,6 @@
 ---
 title: "Tom Mayo | Data Science & AI Advisor"
-layout: "profile"
+layout: "page"
 ---
 
 <!-- SECTION 1: HERO / HOME -->

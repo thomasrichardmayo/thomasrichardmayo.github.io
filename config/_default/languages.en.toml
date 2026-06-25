@@ -2,7 +2,8 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Blowfish"
+title = "AlzaVola Data"
+description = "Data Specialist"
 
 [params]
   displayName = "EN"
