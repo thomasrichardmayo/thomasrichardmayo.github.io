@@ -35,7 +35,17 @@ fingerprintAlgorithm = "sha256"
   layout = "page" # valid options: page, profile, custom
   showRecent = false
   recentLimit = 5
+  
+# Locate the author block and update your name
+[author]
+  name = "Thomas Richard Mayo"
+  image = "profile.jpeg" # Optional: you can drop a profile photo in assets/ later
+  bio = "Data Science, Advisor & Strategic Consultant."
 
+# Locate the homepage configuration block
+[homepage]
+  showRecent = true
+  layout = "profile" # This changes the landing page into a clean bio splash card
 [article]
   showDate = true
   showDateUpdated = false

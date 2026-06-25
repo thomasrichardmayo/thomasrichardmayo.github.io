@@ -11,19 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
+  name = "Strategy Insights"    # <-- Change this from "Blog" or "Posts"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Contact"
+  url = "mailto:thomasrichardmayo@yourdomain.com"
   weight = 20
-
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
 
 [[main]]
   identifier = "search"
